@@ -1,7 +1,8 @@
 ---
-title: "Enter"
+title: index.qmd
 ---
 
-This is a Quarto website.
+This is a website that has a collection of all my data science assignments. All the implementations are currently in python. Implementations in Julia and R will come soon
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto websites visit
+<https://quarto.org/docs/websites>
